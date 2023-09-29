@@ -1,0 +1,3 @@
+CRUD is the abbreviation of CREATE/READ/UPDATE/DELETE
+they are the four basics in the data managment and the software development
+many of these process founds in databases that can interact with it easly 

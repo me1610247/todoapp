@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Mohamed emad",
+        "email": "moh661324@gmail.com",
+        "password": "$2y$10$TkWS9wiZiGPPFHUly21PKOQI\/nB9l6AuFKBQz87ZVPttcVsgtJV8C"
+    },
+    {
+        "id": 2,
+        "name": "khalifa",
+        "email": "mohamedkhalifa@gmail.com",
+        "password": "$2y$10$lAfocNU\/xMV39d5Z.rMXBOyH0YQGUqLTfhe8RUIO12kCXlAy9Viwa"
+    },
+    {
+        "id": 3,
+        "name": "fady",
+        "email": "fady@eraasoft.com",
+        "password": "$2y$10$0fo5daaNX2XNbp11uc6fzOidoQCU\/S2hrS7MfHxnYXXBj.GZeYxUm"
+    },
+    {
+        "id": 4,
+        "name": "mohamed ayman",
+        "email": "mohamedayman@gmail.com",
+        "password": "$2y$10$y9Y.xx3tp98aabI3GD7U2eK2ewiRTMTXGvXoTC2yoqCO5YjoCp.h6"
+    }
+]
